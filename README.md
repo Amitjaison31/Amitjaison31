@@ -1,4 +1,4 @@
-Hello Amit Jaison! 👋
+Hello, I am Amit Jaison! 👋
 
 - Intern at Sniqsys Technosphere, passionate about Android app development.
 - Creating an app to assist visually challenged individuals.
